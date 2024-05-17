@@ -1,0 +1,16 @@
+{
+	"basics": {
+		"name": "Diana",
+		"label": "IT Support Engineer Level 2",
+		"picture": "profilepicture.jpg",
+		"email": "dianliyeva@gmail.com",
+		"phone": "+19293669054",
+		"linkedin": "https://www.linkedin.com/in/dianaaliyeva/",
+		"github": "https://github.com/Dianliyeva",
+		"summary": "With expertise in web development, support engineering, and troubleshooting, I'd like to gain both personal and organizational advancement through commitment and diligent effort. Eager to cultivate professional growth with the company's success, my aspiration is to immerse myself in the realm of AI in my upcoming role. I am genuinely passionate about technology and it’s proven in my work."
+	},
+	"theme": {
+		"url": "https://github.com/prakis/stringify.me-theme-card1",
+		"background" :"#f98008"
+	}
+}
